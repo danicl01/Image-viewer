@@ -1,2 +1,2 @@
-# Image-viewer --> master
+# Image-viewer
 IS2 - Image Viewer App
